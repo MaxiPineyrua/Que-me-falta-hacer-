@@ -1,0 +1,69 @@
+body {
+  background-image: url(/images/fondominimalista.png);
+  background-size: cover;
+}
+
+nav {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+h4 {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+#listaTareas li.completada {
+  opacity: 0.3;
+  color: black;
+  font-weight: 600;
+
+}
+
+#listaTareas li {
+  background-color: #f1eaea;
+  border: 2px solid #ccc;
+  margin-bottom: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+#btnAgregar,
+#inputTarea {
+  font-family: 'Poppins', sans-serif;
+}
+
+#listaTareas button {
+  background-color: #007bff;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  padding: 4px 8px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+#listaTareas li.completada button {
+  text-decoration: none;
+}
+
+#listaTareas button:hover {
+  background-color: #004085;
+}
+
+#listaTareas button:active {
+  background-color: #004085;
+}
+
+#listaTareas li button:first-of-type {
+  margin-left: auto;
+}
