@@ -4,13 +4,13 @@ Aplicación web interactiva de lista de tareas desarrollada con JavaScript, HTML
 
 ---
 ## 🚀 Funcionalidades
-➕ Agregar nuevas tareas
-❌ Eliminar tareas
-✅ Marcar tareas como completadas
-💾 Persistencia de datos con localStorage
-🚫 Validación para evitar tareas duplicadas
-🎉 Animación de confetti al completar tareas
-🎨 Interfaz mejorada con Bootstrap y CSS personalizado
+- ➕ Agregar nuevas tareas
+- ❌ Eliminar tareas
+- ✅ Marcar tareas como completadas
+- 💾 Persistencia de datos con localStorage
+- 🚫 Validación para evitar tareas duplicadas
+- 🎉 Animación de confetti al completar tareas
+- 🎨 Interfaz mejorada con Bootstrap y CSS personalizado
 
 ---
 ## Utilicé:
